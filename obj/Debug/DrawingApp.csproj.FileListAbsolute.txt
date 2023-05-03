@@ -1,0 +1,11 @@
+C:\Users\jayas\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\jayas\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\jayas\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\jayas\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+C:\Users\jayas\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jayas\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.Form1.resources
+C:\Users\jayas\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+C:\Users\jayas\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+C:\Users\jayas\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\jayas\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\jayas\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.pdb
