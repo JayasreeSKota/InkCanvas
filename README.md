@@ -1,4 +1,5 @@
 ![ alt text ](https://img.shields.io/badge/11-csharp-green?logo=csharp)
+![ alt text ](https://img.shields.io/badge/visualstudio-blueviolet?logo=visualstudio)
 
 Welcome to InkCanvas! 🎨🚀
 
